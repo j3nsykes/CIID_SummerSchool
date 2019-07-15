@@ -5,6 +5,10 @@ Code examples for Machine Learning for Interaction Design
 ## Tutors
 Andreas Refsgaard and Jen Sykes
 
+## Communications
+We Will use Slack to add any updates and useful information.
+[Link to Slack channel](https://join.slack.com/t/ciid19mlsummer/shared_invite/enQtNjgyOTY2NzQwNDM1LThkMDVmMjAyZTczZDZiZDhmMWJhOGUyMTRiMjdlMDdlYmMyMTlkMmJlNTc1Y2JlYjI5MTZiNjI3NjNlN2U0OTY)
+
 ## Downloads:
 In order to see the Arduino board's serial port you must have the correct driver installed on your computer first. The drivers are contained in the "Driver" folder in this repository. Make sure you select folder for your operating system (Windows / Mac osX). 
 
